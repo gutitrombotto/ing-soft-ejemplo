@@ -59,3 +59,7 @@ Los resultados podran ser encontrados en los archivos:
 - FindBugs:
 	- Main: ``/build/reports/findbugs/main.html``
 	- Test: ``/build/reports/findbugs/test.html``
+
+### Integracion Continua
+
+El servidor de Integracion Continua puede ser encontrado en la URL https://travis-ci.org/jnonino/ing-soft-ejemplo
