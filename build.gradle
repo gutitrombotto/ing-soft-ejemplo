@@ -15,6 +15,7 @@ dependencies {
 checkstyle {
     ignoreFailures = true
     toolVersion = '6.6'
+    showViolations = true
 }
 
 tasks.withType(Checkstyle) {
@@ -26,6 +27,7 @@ tasks.withType(Checkstyle) {
 
 pmd {
     ignoreFailures = true
+    showViolations = true
 }
 
 tasks.withType(Pmd) {
@@ -39,6 +41,7 @@ findbugs {
     ignoreFailures = true
     effort = "max"
     reportLevel = "low"
+    showViolations = true
 }
 
 tasks.withType(FindBugs) {
