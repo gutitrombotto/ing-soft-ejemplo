@@ -66,3 +66,4 @@ El servidor de Integracion Continua puede ser encontrado en las URLs
 
 - https://travis-ci.org/jnonino/ing-soft-ejemplo
 - https://codeship.com/projects/143373
+- https://circleci.com/gh/jnonino/ing-soft-ejemplo
