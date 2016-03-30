@@ -62,4 +62,7 @@ Los resultados podran ser encontrados en los archivos:
 
 ### Integracion Continua
 
-El servidor de Integracion Continua puede ser encontrado en la URL https://travis-ci.org/jnonino/ing-soft-ejemplo
+El servidor de Integracion Continua puede ser encontrado en las URLs
+
+- https://travis-ci.org/jnonino/ing-soft-ejemplo
+- https://codeship.com/projects/143373
