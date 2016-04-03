@@ -9,6 +9,7 @@ public class Main {
 
         if (args.length == 2) {
         	String Nombre2 = "AGUSTIN";
+        	String Nombre3 = "AGUSTIN";
             String miNombre = args[0];
             String nombreDeOtraPersona = args[1];
             String saludo = armarSaludo(miNombre, nombreDeOtraPersona);
